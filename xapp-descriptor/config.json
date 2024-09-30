@@ -11,7 +11,7 @@
                 }
             },
             {
-                "name": "predict",
+                "name": "data-generator",
                 "image": {
                     "registry": "registry.hub.docker.com",
                     "name": "hoangtuansu/ad",
